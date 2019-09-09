@@ -1,6 +1,7 @@
 name: textPlusData blog
 markdown: kramdown
 theme: jekyll-theme-slate
+baseurl: /blog
 defaults:
   # _posts
   - scope:
