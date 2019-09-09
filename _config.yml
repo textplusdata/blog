@@ -1,3 +1,5 @@
+name: textPlusData blog
+markdown: kramdown
 theme: jekyll-theme-slate
 defaults:
   # _posts
@@ -15,3 +17,5 @@ footer:
   links:
     - label: "Twitter"
       url: "https://twitter.com/fakecheck"
+plugins:
+  - jekyll-sitemap
