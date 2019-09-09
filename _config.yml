@@ -1,3 +1,5 @@
+name: textPlusData blog
+markdown: kramdown
 theme: jekyll-theme-slate
 defaults:
   # _posts
