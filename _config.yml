@@ -11,3 +11,7 @@ defaults:
       share: true
       related: true
       author_profile: true
+footer:
+  links:
+    - label: "Twitter"
+      url: "https://twitter.com/fakecheck"
