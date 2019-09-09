@@ -15,3 +15,5 @@ footer:
   links:
     - label: "Twitter"
       url: "https://twitter.com/fakecheck"
+plugins:
+  - jekyll-sitemap
